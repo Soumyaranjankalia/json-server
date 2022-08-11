@@ -1,0 +1,34 @@
+{
+    "data":[
+        {
+            "id":1,
+            "country":"India",
+            "city":"bhubaneswar",
+            "population":50000
+        },
+        {
+            "id":2,
+            "country":"China",
+            "city":"wuhan",
+            "population":10000
+        },
+        {
+            "id":3,
+            "country":"US",
+            "city":"washington",
+            "population":4000
+        },
+        {
+            "id":4,
+            "country":"Pakistan",
+            "city":"karachi",
+            "population":77000
+        },
+        {
+            "id":5,
+            "country":"UAE",
+            "city":"Dubai",
+            "population":60000
+        }
+    ]
+}
